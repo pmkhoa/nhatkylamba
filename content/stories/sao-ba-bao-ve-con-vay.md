@@ -1,10 +1,6 @@
 +++
 date = "2015-10-28T23:14:24-07:00"
-<<<<<<< HEAD
 draft = false
-=======
-draft = true
->>>>>>> Init nhatkylamba blog
 title = "Sao ba bảo vệ con vậy"
 
 +++

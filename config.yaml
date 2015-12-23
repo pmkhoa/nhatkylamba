@@ -1,0 +1,9 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+languageCode: "utf-8"
+baseurl: "http://nhatkylamba.com"
+title: "Nhật ký làm ba"
+canonifyurls: true
+---

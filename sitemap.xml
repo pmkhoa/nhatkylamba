@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://nhatkylamba.com/</loc>
+    <lastmod>2015-12-23T10:56:59-08:00</lastmod>
+=======
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-10-28T23:14:24-07:00</lastmod>
+>>>>>>> Init nhatkylamba blog
+    <priority>0</priority>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://nhatkylamba.com/stories/nong-qua/</loc>
+    <lastmod>2015-12-23T10:56:59-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/big-girl/</loc>
+    <lastmod>2015-11-30T23:18:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/chapstick-cap/</loc>
+    <lastmod>2015-11-27T15:43:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/emergency-room/</loc>
+    <lastmod>2015-11-25T23:43:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/daily-routine/</loc>
+    <lastmod>2015-11-20T22:41:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/bo-la-bo-thoi/</loc>
+    <lastmod>2015-11-15T21:44:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/disneyland-trip-2015/</loc>
+    <lastmod>2015-11-14T21:59:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/do-vat-trong-nhat/</loc>
+    <lastmod>2015-11-08T13:41:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/con-chi-gia-bo-khoc-thoi/</loc>
+    <lastmod>2015-11-06T21:40:23-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/chao-buoi-sang/</loc>
+    <lastmod>2015-11-03T23:58:09-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/con-thich-ve/</loc>
+    <lastmod>2015-11-02T22:08:08-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/lan-dau-trick-or-treat/</loc>
+    <lastmod>2015-10-31T00:09:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/goc-nho-rieng-tu/</loc>
+    <lastmod>2015-10-29T22:54:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/sao-ba-bao-ve-con-vay/</loc>
+=======
+    <loc>http://localhost:1313/stories/sao-ba-bao-ve-con-vay/</loc>
+>>>>>>> Init nhatkylamba blog
+    <lastmod>2015-10-28T23:14:24-07:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
+    <loc>http://nhatkylamba.com/gioi-thieu/</loc>
+    <lastmod>2015-10-27T23:07:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nhatkylamba.com/stories/con-van-con-nho-lam/</loc>
+    <lastmod>2015-10-27T16:45:52-07:00</lastmod>
+=======
+    <loc>http://localhost:1313/stories/con-van-con-nho-lam/</loc>
+    <lastmod>2015-10-28T16:45:52-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gioi-thieu/</loc>
+    <lastmod>2015-10-27T23:07:19-07:00</lastmod>
+>>>>>>> Init nhatkylamba blog
+  </url>
+  
+</urlset>

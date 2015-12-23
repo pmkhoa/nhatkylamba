@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nhật ký làm ba</title>
-<<<<<<< HEAD
     <link>http://nhatkylamba.com/</link>
     <description>Recent content on Nhật ký làm ba</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -337,21 +336,6 @@ về để làm kem bỏ vào tủ lạnh. Quá trình làm kem bao gồm các b
       <pubDate>Wed, 28 Oct 2015 23:14:24 -0700</pubDate>
       
       <guid>http://nhatkylamba.com/stories/sao-ba-bao-ve-con-vay/</guid>
-=======
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Nhật ký làm ba</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>utf-8</language>
-    <lastBuildDate>Wed, 28 Oct 2015 23:14:24 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Sao ba bảo vệ con vậy</title>
-      <link>http://localhost:1313/stories/sao-ba-bao-ve-con-vay/</link>
-      <pubDate>Wed, 28 Oct 2015 23:14:24 -0700</pubDate>
-      
-      <guid>http://localhost:1313/stories/sao-ba-bao-ve-con-vay/</guid>
->>>>>>> Init nhatkylamba blog
       <description>&lt;p&gt;Tối nay khi hai ba con hì hục ngồi sửa xe đạp thì con gái nhảy lên đùi ba ngồi.
 Tay vừa quay xe đạp vừa nhìn ba cười. Khi nghe tiếng động ở phòng bên cạnh, con
 gái đột nhiên hỏi, &amp;ldquo;Sao ba bảo vệ con vậy?&amp;rdquo;
@@ -362,31 +346,12 @@ gái đột nhiên hỏi, &amp;ldquo;Sao ba bảo vệ con vậy?&amp;rdquo;
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Giới Thiệu</title>
       <link>http://nhatkylamba.com/gioi-thieu/</link>
       <pubDate>Tue, 27 Oct 2015 23:07:19 -0700</pubDate>
       
       <guid>http://nhatkylamba.com/gioi-thieu/</guid>
       <description>&lt;p&gt;Một góc nhỏ viết để viết vể những kỉ niệm đáng quý.&lt;/p&gt;
-=======
-      <title>Con Vẫn Còn Nhỏ Lắm</title>
-      <link>http://localhost:1313/stories/con-van-con-nho-lam/</link>
-      <pubDate>Wed, 28 Oct 2015 16:45:52 -0700</pubDate>
-      
-      <guid>http://localhost:1313/stories/con-van-con-nho-lam/</guid>
-      <description>&lt;p&gt;Hôm nay khi ba đang ngồi làm việc, con gái chạy đến nằm vào lòng ba và muốn ba bồng. Con nói “Con vẫn còn nhỏ lắm.” Con gái ba lúc nào cũng nhỏ nhắn với ba thôi, ba trả lời. Con biết là ba lúc nào cũng thương con nhiều lắm đó, nhìn vào đôi mắt trong sáng của con, mình cảm thấy thật hạnh phúc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>gioi thieu</title>
-      <link>http://localhost:1313/gioi-thieu/</link>
-      <pubDate>Tue, 27 Oct 2015 23:07:19 -0700</pubDate>
-      
-      <guid>http://localhost:1313/gioi-thieu/</guid>
-      <description>&lt;p&gt;Hello World&lt;/p&gt;
->>>>>>> Init nhatkylamba blog
 </description>
     </item>
     
